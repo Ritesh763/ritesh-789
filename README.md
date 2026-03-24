@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **MERN stack, DSA in Java, Docker & Kubernetes**
 - 💻 I enjoy building **full-stack web apps and solving algorithm problems**
 - 🎯 Goal for 2026: **Crack DSA interviews and build production-ready projects**
-- 📫 How to reach me: **riteshk9215@gmail.comemail@example.com**
+- 📫 How to reach me: **riteshk9215@gmail.com**
 
 ---
 
